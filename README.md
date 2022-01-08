@@ -28,7 +28,7 @@ Combien d'allumettes vous voulez retirer ? ==>
 Une partie graphique a été intégrée, on peut voir les allumettes diminuées au fur et à mesureCependant les entre claviers par Tkinter ne fonctionne pas correctement
 
 ## Point de difficulté
-Ici j'affiche mon form pour récupérer l'entre claviers cependant lorsque je retourne N il ne prend pas en compte la valeur de
+Ici j'affiche mon form pour récupérer l'entre claviers cependant lorsque je retourne N il ne prend pas en compte la valeur de sortie (sinon l'interface graphique aurait fonctionnée il me manque seulement cette étape 😞 " 
 ```python
  def joueur(self):
         """
